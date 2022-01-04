@@ -1,0 +1,2 @@
+# oryantaasyon
+oryantasyon için final
