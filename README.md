@@ -1,2 +1,2 @@
 # oryantaasyon
-oryantasyon için final
+oryantasyon için final ÇÖZDÜGÜM SORULAR
